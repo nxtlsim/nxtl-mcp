@@ -47,7 +47,7 @@ Details, connection steps and the page each claim comes from: [docs/business.md]
 ## Registry metadata
 
 - Registry name: `io.github.nxtlsim/nxtl-esim`
-- Version: `1.0.2`
+- Version: `1.0.3`
 - Website: [https://nxtlsim.com/mcp/](https://nxtlsim.com/mcp/)
 - Metadata file: [`server.json`](./server.json)
 - Icon: [`icon.png`](./icon.png) (512×512)
