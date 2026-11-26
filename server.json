@@ -1,0 +1,19 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.nxtlsim/nxtl-esim",
+  "title": "NXTL eSIM",
+  "description": "Connect Claude, ChatGPT or another MCP app to NXTL eSIM rates, balance and estimates.",
+  "websiteUrl": "https://nxtlsim.com/mcp/",
+  "repository": {
+    "url": "https://github.com/nxtlsim/nxtl-mcp",
+    "source": "github",
+    "id": "1473444899"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://nxtlsim.com/wp-json/nxtl-ai/v1/mcp"
+    }
+  ]
+}
