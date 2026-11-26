@@ -1,3 +1,5 @@
+<img src="./icon.png" alt="NXTL" width="72" height="72" />
+
 # NXTL eSIM MCP
 
 This repository holds the official [MCP Registry](https://registry.modelcontextprotocol.io/) metadata for the NXTL eSIM remote MCP server, plus a short connection guide.
@@ -39,6 +41,7 @@ You can disconnect at any time under More, Connected assistants, or in the NXTL 
 - Registry name: `io.github.nxtlsim/nxtl-esim`
 - Website: [https://nxtlsim.com/mcp/](https://nxtlsim.com/mcp/)
 - Metadata file: [`server.json`](./server.json)
+- Icon: [`icon.png`](./icon.png) (512×512)
 - Publishing: GitHub Actions with OIDC (see [`.github/workflows/publish-mcp.yml`](./.github/workflows/publish-mcp.yml)). No registry token is stored in the repository.
 
 ## Related

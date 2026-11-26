@@ -9,7 +9,14 @@
     "source": "github",
     "id": "1473444899"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/nxtlsim/nxtl-mcp/main/icon.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",
