@@ -36,6 +36,14 @@ Then run `/mcp`, choose nxtl, and sign in in the browser.
 
 You can disconnect at any time under More, Connected assistants, or in the NXTL app. Access stops at once.
 
+## NXTL for Business
+
+The [MCP guide](https://nxtlsim.com/mcp/) says team members see company eSIMs, usage and billing in their own assistant, within their role, and that changes run only after they confirm. For Business points “How it works” at that guide. The only remote address published there is the one above.
+
+The Partner API reference also names a NXTL Business MCP server, opened from the business dashboard under Assistants, with its own read tools and a confirm step. It does not publish a separate remote URL, so this repository still registers one server.
+
+Details, connection steps and the page each claim comes from: [docs/business.md](docs/business.md).
+
 ## Registry metadata
 
 - Registry name: `io.github.nxtlsim/nxtl-esim`
