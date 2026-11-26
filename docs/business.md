@@ -83,9 +83,9 @@ Eligible free and Premium accounts can connect. Premium is not required just to 
 
 ## Registry
 
-`server.json` keeps one entry, `io.github.nxtlsim/nxtl-esim`, version 1.0.2, with one remote: the address above. The registry description is one sentence, within the schema limit of 100 characters:
+`server.json` keeps one entry, `io.github.nxtlsim/nxtl-esim`, version 1.0.3, with one remote: the address above. The registry description is one sentence, within the schema limit of 100 characters:
 
-> NXTL for Business teams use the same server for company eSIMs, usage and billing within their role.
+> NXTL eSIM rates, balance and estimates in Claude, ChatGPT or any MCP app, for travellers and teams.
 
 ## Sources
 
