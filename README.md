@@ -41,6 +41,10 @@ You can disconnect at any time under More, Connected assistants, or in the NXTL 
 - Metadata file: [`server.json`](./server.json)
 - Publishing: GitHub Actions with OIDC (see [`.github/workflows/publish-mcp.yml`](./.github/workflows/publish-mcp.yml)). No registry token is stored in the repository.
 
+## Related
+
+- [awesome-esim](https://github.com/nxtlsim/awesome-esim) - Curated list of eSIM tools, specs, APIs, guides and resources, including this MCP server.
+
 ## Licence
 
 The files in this repository are released under the MIT Licence. The NXTL MCP server and the NXTL eSIM service remain NXTL products; see [nxtlsim.com](https://nxtlsim.com).
