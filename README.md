@@ -36,9 +36,18 @@ Then run `/mcp`, choose nxtl, and sign in in the browser.
 
 You can disconnect at any time under More, Connected assistants, or in the NXTL app. Access stops at once.
 
+## NXTL for Business
+
+Business teams use this same server. A team member adds `https://nxtlsim.com/wp-json/nxtl-ai/v1/mcp` and signs in with their NXTL Business account. The tools they get depend on their company role. NXTL for Business can switch assistant access and changes on or off for the company.
+
+The [MCP guide](https://nxtlsim.com/mcp/) card “Run your team’s eSIMs” says team members see company eSIMs, usage and billing in their own assistant, within their role, and that changes run only after they confirm.
+
+Details, connection steps and the page each claim comes from: [docs/business.md](docs/business.md).
+
 ## Registry metadata
 
 - Registry name: `io.github.nxtlsim/nxtl-esim`
+- Version: `1.0.2`
 - Website: [https://nxtlsim.com/mcp/](https://nxtlsim.com/mcp/)
 - Metadata file: [`server.json`](./server.json)
 - Icon: [`icon.png`](./icon.png) (512×512)
